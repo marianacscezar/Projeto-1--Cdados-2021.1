@@ -1,5 +1,7 @@
 # Projeto-1--Cdados-2021.1
-#CLASSIFICADOR AUTOMÁTICO DE SENTIMENTO
+CLASSIFICADOR AUTOMÁTICO DE SENTIMENTO
+
+
 Você foi contratado por uma empresa parar analisar como os clientes estão reagindo a um
 determinado produto no Twitter. A empresa deseja que você: crie um programa que selecione
 algumas mensagens disponíveis no Twitter, as quais mencionam esse particular produto; e
